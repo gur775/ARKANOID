@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arcanoid", "arcanoid\arcanoid.vcxproj", "{34482C71-0084-41C6-B7B3-0DE4A43A8999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Debug|x64.ActiveCfg = Debug|x64
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Debug|x64.Build.0 = Debug|x64
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Debug|x86.ActiveCfg = Debug|Win32
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Debug|x86.Build.0 = Debug|Win32
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Release|x64.ActiveCfg = Release|x64
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Release|x64.Build.0 = Release|x64
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Release|x86.ActiveCfg = Release|Win32
+		{34482C71-0084-41C6-B7B3-0DE4A43A8999}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F67E8A1-3921-404D-8AA9-6355DC805EC3}
+	EndGlobalSection
+EndGlobal
